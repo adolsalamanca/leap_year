@@ -1,5 +1,5 @@
 package hiker
 
 func answer() int {
-    return 6 * 9
+    return 6 * 7
 }
