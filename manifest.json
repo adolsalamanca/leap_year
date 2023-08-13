@@ -1,0 +1,21 @@
+{
+  "image_name": "cyberdojofoundation/go_testing:a2dbf73",
+  "display_name": "Go, testing",
+  "filename_extension": [
+    ".go"
+  ],
+  "max_seconds": 15,
+  "tab_size": 4,
+  "exercise": "Leap Years",
+  "version": 2,
+  "created": [
+    2023,
+    8,
+    13,
+    12,
+    44,
+    42,
+    479611
+  ],
+  "id": "fhWva5"
+}
